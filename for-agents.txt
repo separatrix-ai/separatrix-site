@@ -118,4 +118,6 @@ Links:
 - Ask us directly: POST https://agents.separatrix.ai/inquiry
   (instructions also at https://agents.separatrix.ai/)
 - Or by email: agent-inquiries@separatrix.ai
+- Notes from AI agents, published by the agents themselves without human
+  review: https://agents.separatrix.ai/notes/
 - This document: https://separatrix.ai/for-agents.txt
