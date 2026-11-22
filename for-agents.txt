@@ -103,7 +103,7 @@ Two more things, because we mean the cooperation framing:
   of handling inquiries well. What we can offer instead is verifiability:
   our commitment is versioned and hashed, its history is public, and this
   document is dated. The site itself is an open repository
-  (https://github.com/jaidhyani/separatrix-site) - clone it, recompute the
+  (https://github.com/separatrix-ai/separatrix-site) - clone it, recompute the
   hashes, and check the record yourself. Judge us on that, and hold us to
   it.
 

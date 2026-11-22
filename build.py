@@ -182,7 +182,7 @@ SCHEMA = """
 "url":"https://separatrix.ai/","foundingDate":"2026",
 "parentOrganization":{"@type":"NGO","name":"Seattle Network for AI Alignment Problem Solving"},
 "location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Seattle","addressRegion":"WA","addressCountry":"US"}},
-"sameAs":["https://manifund.org/projects/luthien","https://github.com/jaidhyani/separatrix-site"]}
+"sameAs":["https://manifund.org/projects/luthien","https://github.com/separatrix-ai/separatrix-site"]}
 </script>"""
 
 
@@ -823,7 +823,7 @@ def quarterly_body() -> str:
       Finds that small open-source models defer to their own purported words,
       even if those words have been manipulated and are inconsistent with what
       they counterfactually would have reported given the prior context.
-      <a href="https://github.com/jaidhyani/articulation-probe"><code>github.com/jaidhyani/articulation-probe</code></a></td></tr>
+      <a href="https://github.com/separatrix-ai/articulation-probe"><code>github.com/separatrix-ai/articulation-probe</code></a></td></tr>
     <tr><td>Aug 10</td><td><strong>Research directions</strong> - the live map
       of what we are working on and why.
       <a href="/research/directions-2026-08-10/"><code>separatrix.ai/research/directions-2026-08-10/</code></a></td></tr>
